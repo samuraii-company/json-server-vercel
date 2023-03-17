@@ -1,9 +1,153 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "category": [
+        {
+            "id": 1,
+            "title": "Однодневные туры",
+            "description": null,
+            "picture": "/images/category/pictures/cat-1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Многодневные туры",
+            "description": null,
+            "picture": "/images/category/pictures/cat-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Морская рыбалка",
+            "description": null,
+            "picture": "/images/category/pictures/cat-3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Вертолетная экскурсия",
+            "description": null,
+            "picture": "/images/category/pictures/cat-4.jpg"
+        }
+    ],
+    "tours": [
+        {
+            "id": 1,
+            "title": "Авачинский вулкан (восхождение)",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.",
+            "start_date": "2023-04-14",
+            "end_date": "2023-05-20",
+            "price": 20000,
+            "min_people_count": 1,
+            "max_people_count": 3,
+            "optional": "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.",
+            "picture": "/images/tours/pictures/tour-1.jpg",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "title": "Гора Верблюд (восхождение)",
+            "description": "Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)Гора Верблюд (восхождение)",
+            "start_date": "2023-04-14",
+            "end_date": "2023-05-20",
+            "price": 22222,
+            "min_people_count": 1,
+            "max_people_count": 2,
+            "optional": null,
+            "picture": "/images/tours/pictures/tour-2.jpg",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "title": "Горелый вулкан (восхождение)",
+            "description": "Горелый вулкан (восхождение)Горелый вулкан (восхождение)Горелый вулкан (восхождение)Горелый вулкан (восхождение)Горелый вулкан (восхождение)Горелый вулкан (восхождение)Горелый вулкан (восхождение)Горелый вулкан (восхождение)",
+            "start_date": "2023-04-14",
+            "end_date": "2023-05-20",
+            "price": 1,
+            "min_people_count": 2,
+            "max_people_count": 33,
+            "optional": null,
+            "picture": "/images/tours/pictures/tour-3.jpg",
+            "category": 1
+        },
+        {
+            "id": 4,
+            "title": "Горелый вулкан (восхождение)",
+            "description": "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.",
+            "start_date": "2023-04-14",
+            "end_date": "2023-05-20",
+            "price": 2222,
+            "min_people_count": 1,
+            "max_people_count": 2,
+            "optional": "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.",
+            "picture": "/images/tours/pictures/tour-4.jpg",
+            "category": 1
+        }
+    ],
+
+    "images": [
+        {
+            "tour_id": 1,
+            "data": [
+                {
+                    "url": "/images/tours/gallery/1/tour-11.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-12.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-13.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-14.jpg"
+                }
+            ]
+        },
+        {
+            "tour_id": 2,
+            "data": [
+                {
+                    "url": "/images/tours/gallery/1/tour-11.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-12.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-13.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-14.jpg"
+                }
+            ]
+        },
+        {
+            "tour_id": 3,
+            "data": [
+                {
+                    "url": "/images/tours/gallery/1/tour-11.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-12.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-13.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-14.jpg"
+                }
+            ]
+        },
+        {
+            "tour_id": 4,
+            "data": [
+                {
+                    "url": "/images/tours/gallery/1/tour-11.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-12.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-13.jpg"
+                },
+                {
+                    "url": "/images/tours/gallery/1/tour-14.jpg"
+                }
+            ]
+        }
+    ]
 }
