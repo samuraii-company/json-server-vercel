@@ -29,8 +29,9 @@
         {
             "id": 1,
             "title": "Экскурсия на Толмачевское озеро купание в горячих источниках",
-            "picture": "https://downloader.disk.yandex.ru/preview/273db47c324de940b3c3a2bafe90f082db670573396f9ae4d1af4521645e3d10/6433dc11/HGxGnBQ6ddSK4SDQgbEvhX34Y68cjukK6eOhbhchJXLaqhmEezO5a6YhQmXcR09w8wwBX_dBr-Hzx2FUoiM9SA%3D%3D?uid=0&filename=main.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/1/main.jpeg",
             "description": "Толмачево озеро расположилось в юго-западной части полуострова, на высоте 616 м над уровнем моря. Озеро образовалось в результате обвала скалистых пород в реку, которые перекрыли выход воды, тем самым образовав заводь. Эта заводь и стала впоследствии озером. Это удивительная экскурсия, на которой можно увидеть не только потрясающие пейзажи на вулканы, высокогорные озера, кратер заполненный водой, но и медведей в диких условиях, пасущихся на ягодниках.",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -98,8 +99,9 @@
         {
             "id": 2,
             "title": "Пещеры вулкана Горелый, водопад Спокойный",
-            "picture": "https://downloader.disk.yandex.ru/preview/f44f46352a67d01d2b72e82996ced9fda52d961a51dac1e3c1ef71f5aa6f5b46/6433dd64/FenMN9as-c1Zlbvmn_wYo7vSdG7E3gp44tvLjsxNWRiVuLah_k7rYad8jt7xPXkKKjuVvWFVFREEtmwkmmDUWA%3D%3D?uid=0&filename=main.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/2/main.jpeg",
             "description": "Посещение лавовых пещер вулкана Горелый и водопада Спокойный – это насыщенная экскурсия по удивительным местам, которая будет по силам любому туристу. Активности минимум, зрелищности максимум!",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -155,8 +157,9 @@
         {
             "id": 3,
             "title": "Авачинский вулкан (восхождение)",
-            "picture": "https://downloader.disk.yandex.ru/preview/85664d26749b1e4a85d371acc5159aff2fd1690ed93a6bb7c8d78c2b0d748cd4/6433dfeb/WZcvZcqBE2c9fapOCrJcM0DmGlkJkUls1nT_wZpH80noqJ0P-R8mnjaKHGIOcs33hfM60Ugo2Fkeh4bjn7qKxw%3D%3D?uid=0&filename=mein.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/3/main.jpeg",
             "description": "Самый активный в Корякско-Авачинской группе вулканов и представляет собой сложный двойной вулкан типа Сомма-Везувий. Путешественники всего мира восхищаются поразительным сходством с легендарным вулканом Везувий – виновником гибели Помпеи.",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -238,8 +241,9 @@
         {
             "id": 4,
             "title": "Горелый вулкан (восхождение)",
-            "picture": "https://downloader.disk.yandex.ru/preview/62a4325524f1ba8e7fd51d69eebd5d7896d0004e6d2cff45f436e9b970d5508d/6433e0bb/ptjTwwK2MrNE_xWdYf2cZmy7l2YxKAcB1OM1lqwFfIddbTHJgGGXT2JOD76BmgcnXgNQG2nm1A9T13BbjkhhXQ%3D%3D?uid=0&filename=main.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/4/main.jpeg",
             "description": "Вулкан Горелый, расположенный в 110 километрах к югу от Петропавловска-Камчатского, находится на территории Южно-Камчатского природного парка. Он действующий, его высота на сегодняшний день 1825 метров. В его кальдере находится 11 кратеров, часть из которых заполнена водой и серной кислотой, есть и пещеры, а также фумаролы – трещины в горной породе, через которые вырываются горячие вулканические газы. Все это делает экскурсию на сопку Горелую, так еще называют этот вулкан, весьма интересной и запоминающейся",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -315,8 +319,9 @@
         {
             "id": 5,
             "title": "Дачные термальные источники,водопад спокойный",
-            "picture": "https://downloader.disk.yandex.ru/preview/2baba60c0e58a4d59d2a3a1ce0da91630f909fe2a68472e8846cd4fe211357f1/6433e2ba/Fw9Qxm6nz1XF5i6EJg_NFP1EakisJHnxWxu-YNt5L8NcWUQUqVJM4UVyKbJAeGGVvjpE86iYcVJMWRRASonKRg%3D%3D?uid=0&filename=main.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/5/main.jpeg",
             "description": "Находятся в 1 км восточнее перевала между горами Двугорбовой и Скалистой, в 9 км севернее вулкана Мутновского. Термопроявления разбросаны по крутым склонам и прослеживаются широкой полосой на протяжении более километра, при этом отчетливо выделяется 5 групп источников и паровых струй, самая мощная из которых Активная (Котел) располагается у подножия купола в округлой котловине с крутыми стенками высотой до 30 м. Термопроявления в виде паровых струй, кипящих котлов и горячих источников наблюдаются на стенках котловины и на ее дне",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -386,8 +391,8 @@
         {
             "id": 6,
             "title": "Тихий океан и экструзия верблюд",
-            "picture": "https://downloader.disk.yandex.ru/preview/14b60e3ba26ce00e2334cc15ff712d5a06d64e2cac048fe421cbe017d20b3987/6433e350/Hq0-adOFg7O5EW0YKxNiRiE6Wog26o9eIGr7n46H4SuwOLJNAAzazphou6DszuJx79UuWNPNMcnkiRoOVoUtaA%3D%3D?uid=0&filename=main.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
-            "description": "Несложная однодневная прогулка с восхождением на гору Верблюд с поездкой на побережье Тихого океана. Гора Верблюд - экструзия у подножия Авачинского и Корякского вулканов, памятник природы, расположенный в 25 км от Петропавловска-Камчатского. Свое название гора получила за счет характерной формы - в виде двух верблюжьих горбов. Подъем на экструзию несложный, и подходит людям любой физической подготовки. С вершины открывается великолепный вид на  вулканы Авачинский и Корякский, на знаменитую Налычевскю долину. Халактырский пляж - одно из самых популярных мест не только среди гостей полуострова, так и среди местных жителей. Пляж уникален тем, что его песок, за счет содержания",
+            "picture": "/images/tours/6/main.jpeg",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -457,8 +462,9 @@
         {
             "id": 7,
             "title": "Экскурсия на снегоходах к авачинскому вулкану",
-            "picture": "https://downloader.disk.yandex.ru/preview/066ae6038606719eef386c08c1512537ed52208d2b38b84e0e48139e1edb8fb9/6433e438/4lpOFhYS7z3Rekj1oLjcTsZi3cKmp2O3mWGYtHcLSWAZyXjqCObv62DM4n1S7UVrsnI5wrYOeOTdgWk--48SLg%3D%3D?uid=0&filename=main.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/7/main.jpeg",
             "description": "расположен в 25 километрах к северу от Петропавловска - Камчатского. Свое название этот вулкан получил в XVIII веке в связи с расположением поблизости от реки Авача. Этот вулкан необычайно эффектен и красив. Он имеет своеобразную форму «вулкана в вулкане», научное название такой формы вулканической постройки — Сомма-Везувий. Молодой конус вулкана расположен в огромном кратере, оставшемся после катастрофических извержений, произошедших 3800 и 3500 лет назад. Вулканические бомбы, выброшенные одним из них, весят десятки тонн. Их находят на расстоянии 25-30 километров от центра извержения. В результате образовался стратовулкан, высота которого в настоящее время составляет 2741м",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -524,8 +530,9 @@
         {
             "id": 8, 
             "title": "Морская экскурсия к бухте русской",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/8/main.jpeg",
             "description": "Бухта Русская — одна из самых красивых бухт на юго-восточном побережье Камчатки. Бухта Русская находится в 40 милях южнее выхода из Авачинской губы. Узкая и длинная, глубокая, с высокими, круто обрывающимися к воде берегами, эта бухта очень напоминает норвежские фьорды",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -591,8 +598,9 @@
         {
             "id": 9,
             "title": "Однодневная рыбалка по реке быстрая",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/9/main.jpeg",
             "description": "Сплав по реке Быстрой — это увлекательный тур по водным артериям Камчатки. Спокойная вода часто сменяется бурными потоками и не даёт возможности гостям не получить эмоции от поездки. Но самый главный плюс — это открывающиеся пейзаж. Густые леса и отвесные скалы и частые встречи с хозяевами данных мест — бурыми медведями. Вас также ждёт обед из свежепойманной красной рыбы и возможность самим испытать удачу и поймать красного камчатского лосося. В завершении тура мы отправимся купаться в Малкинские термальные горячие источники.",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -664,8 +672,9 @@
         {
             "id": 10,
             "title": "Морская прогулка Авачинская бухта - о. Старичков",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/10/main.jpeg",
             "description": "Первый этап экскурсии — обзор Авачинской бухты. Это одна из крупнейших бухт планеты, способная вместить в себя весь мировой торговый флот. Мы пройдем на яхте мимо диких черных пляжей, живописных скал и крошечных островков. По пути вы узнаете об истории столицы края — когда-то маленького портового поселения. Когда мы приблизимся к острову Ста́ричков, судно встанет на якорь. Здесь одно из лучших мест для глубоководной рыбалки. Опытные рыбаки в этих водах охотятся на огромного палтуса, но даже у новичков за 40 минут получается поймать хотя бы одну рыбку. Особенно хорошо клюют камбала и бычок. Капитан раздаст удочки и проведет мастер-класс. Глубина здесь — около 35 метров, и вся добыча прячется на дне, поэтому опускайте крючки как можно ниже.",
+            "publish": true,
             "steps": [
                 {
                     "id": 1,
@@ -731,8 +740,9 @@
         {
             "id": 11,
             "title": "Тур на снегоходах мыс маячный 3 брата тихий океан",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
-            "description": "Тур на снегоходах проходит по заснеженным сопкам, огибающим обледенелую прибрежную полосу Авачинской губы. Спуски и подъёмы сопровождаются остановками для фотографирования. На снегоходах поднимемся к удивительно прекрасному месту, откуда удобно созерцать панораму Авачинской Бухты и Тихого океана, скалы «Три Брата», остров Старичков, а так же вулканы Вилючинский, Мутновский и Горелый",
+            "picture": "/images/tours/11/main.jpeg",
+            "description": "Тур на снегоходах проходит по заснеженным сопкам, огибающим обледенелую прибрежную полосу Авачинской губы. Спуски и подъёмы сопровождаются остановками для фотографирования. На снегоходах поднимемся к удивительно прекрасному месту, откуда удобно созерцать панораму Авачинской Бухты и Тихого океана, скалы «Три Брата», остров Старичков, а так же вулканы Вилючинский, Мутновский и Горелый.",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -800,8 +810,9 @@
         {
             "id": 12,
             "title": "Полет в Долину гейзеров с Купанием в Налычевских горячих источниках",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/12/main.jpeg",
             "description": "Эта программа включает в себя две посадки – «жемчужину Камчатки» Долину гейзеров и Налычевские горячие источники.Камчатская Долина гейзеров – это одно из крупнейших гейзерных полей мира. Хоть она и самая компактная по размерам – гейзеры расположены в глубоком каньоне реки на площади около 6 кв. км, но по красоте и количеству кипящих источников, ей нет равных",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -830,8 +841,9 @@
         {
             "id": 13,
             "title": "Вертолетная экскурсия на Курильское озеро.",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/13/main.jpeg",
             "description": "Камчатка по праву считается самым медвежьим местом России. А Курильское озеро – самое медвежье место Камчатки. Дело в том, что сюда на нерест заходят стада лосося, за которыми подтягиваются толпы медведей. В конце лета в бассейне озера собирается более 200 бурых медведей. Они доверчивы, потому что находятся под охраной Южно-Камчатского заказника. Здесь можно наблюдать за жизнью этих удивительных животных с расстояния всего в несколько метров. Посадка в кальдере вулкана Ксудач опциональная и совершается по усмотрению экипажа в зависимости от погодных условий ",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -866,8 +878,9 @@
         {
             "id": 14,
             "title": "Экскурсия на питомник ездовых собак снежные псы(зима).",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/14/main.jpeg",
             "description": "Вариант для тех, кто хочет отдохнуть от длинных пеших походов на вулканы. На этой экскурсии дружелюбные ездовые собаки окружат гостей и покатают в упряжках. Хозяева познакомят с обычаями камчатских народов, споют национальные песни, дадут примерить этнические костюмы, накормят традиционными блюдами. «Снежные псы» на Камчатке — это питомник при общине коренных народов полуострова. Ее члены возрождают ездовое собаководство, а еще знакомят гостей с культурой своих предков.",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -919,8 +932,9 @@
         {
             "id": 15,
             "title": "Экскурсия на питомник ездовых собак снежные псы(лето)",
-            "picture": "https://downloader.disk.yandex.ru/preview/63f3168dd10644c441bc6ea75e40e925c1a1b59c0899af86056a90a2c469d563/6433e701/izpDdDVSs0uoDYLfcolNNX1Uotyf99Gt10Hu8xqBLvhfGGbGctlQazW1DSC5qeWxdFW_NyWNMFQYt_UbZ_sKZQ%3D%3D?uid=0&filename=maiin.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2",
+            "picture": "/images/tours/15/main.jpeg",
             "description": "Вариант для тех, кто хочет отдохнуть от длинных пеших походов на вулканы. На этой экскурсии дружелюбные ездовые собаки окружат гостей и покатают в упряжках. Хозяева познакомят с обычаями камчатских народов, споют национальные песни, дадут примерить этнические костюмы, накормят традиционными блюдами. «Снежные псы» на Камчатке — это питомник при общине коренных народов полуострова. Ее члены возрождают ездовое собаководство, а еще знакомят гостей с культурой своих предков.",
+            "publish": false,
             "steps": [
                 {
                     "id": 1,
@@ -970,13 +984,13 @@
             "tour_id": 1,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/83e288ebbd5b3acab708b491e14ff6650195cd7c3dcdb873ce3a8c7876378f16/6433dc11/uw75nu8d40qDzg1EoLJuGTMMp6zCaQDOw4ALdzIH9nRoO8Kz7_7HLzpiATh7gqYvjO-jqDGg-AgfWsanSSlJuA%3D%3D?uid=0&filename=1.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/1/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/0a87c4d0aef2799e8947037711a364f5d18c0c3b25008301065e08d37fa0f8e6/6433dc11/X1Nx_GiAGYsHiAdLpjcBUss72MM4q4TQj7QS6wDovqpMnr_DuYZqc7Mj9XXgfIaWRtrus4poLNpkisA1ny4Lcw%3D%3D?uid=0&filename=2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/1/2.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/93830e885ebea0e8991456e52caed64c6f70d785ec63e12d34dde0e8c8e22ab2/6433dc11/Xn_c9zf9kSgiQezEWQlyp_uwARN0aJyqktvZkTNfHxGmJRQYjGh7wsp8QIWTcDUk1FxIxEMn5YJEIva5PFz9Aw%3D%3D?uid=0&filename=3.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/1/3.jpeg"
                 }
             ]
         },
@@ -984,10 +998,10 @@
             "tour_id": 2,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/995ba28dd7982834373aa764aeb08ffe1f7a0ff0e9a3826e3d8ab45a213a5ff2/6433dd64/O2qbXiqoyr9g-vLPLG6Eg0yskDFvFd8ca3TjTm6zkOg7zWVWhnHocHkknN2O3glB4ce9GtANGcfCRKiqi6Bu0Q%3D%3D?uid=0&filename=1-0373.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/2/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/f44f46352a67d01d2b72e82996ced9fda52d961a51dac1e3c1ef71f5aa6f5b46/6433dd64/FenMN9as-c1Zlbvmn_wYo7vSdG7E3gp44tvLjsxNWRiVuLah_k7rYad8jt7xPXkKKjuVvWFVFREEtmwkmmDUWA%3D%3D?uid=0&filename=main.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/2/2.jpeg"
                 }
             ]
         },
@@ -995,10 +1009,10 @@
             "tour_id": 3,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/66230931edd8409ef54f1d79027921876ef6ccb4760cea966cf8f1e2c0d3e664/6433dfeb/5J1-vH23NWAhDAtV6JZ6Yf86Ft8ABiRiqIHUOCR-bnZzQpQFIvuUi_a_kHblWyPcvrBYrMYKfq4l_19KxTcX2Q%3D%3D?uid=0&filename=1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/3/1.jpg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/509ddf340bab8aa0279be12636ece993e0a0e668d90189c2048717440ee22647/6433dfeb/X3S-WVshHt9eO7Yob7G0MT6Aku4l9qONu-mhNHkwJC9EBaZG1mFnj6L2wY9U4xJE8_VwwPFq0rGunfFllF-fAw%3D%3D?uid=0&filename=2.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/3/2.jpg"
                 }
             ]
         },
@@ -1006,16 +1020,16 @@
             "tour_id": 4,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/b23a58234b301237e325b94f8f150bea1298f4d7a64c71b2cb0da0911bf62027/6433e0bb/yPR7egy67GkkOywidFU7PwxQVo2xjZfzEMY41jlQno2kwmDeCFfsPUf_yXLuuREveybcbNuB1zrrnq-bYv5euw%3D%3D?uid=0&filename=1.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/4/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/636d5745db0fbb559514b3dd5c3662f51358e276f55568ca3cd18d1bf7a56357/6433e0bb/sPWoe880ka9QYONcqk3RnAxQVo2xjZfzEMY41jlQno0L4wS6MEQnCmu6UXEXjByYva2CupSPoJd_dFQBKK4J7Q%3D%3D?uid=0&filename=2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/4/2.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/4649720fa6f8f88c8d9609f85f17d2cdcd39f17034c82ff6f64524ec56e49602/6433e0bb/gTUs4U2YdBUTdfpsJpHoWw3-j3BdUcCjxntGKSIMJuabuLx69F-0nbwxYHcrmyAmtJMRKpvr6Gvq_yLSWCuI-g%3D%3D?uid=0&filename=3.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/4/3.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/10f618aeacabd5b89338f2633f84a218fa023b1abe29fb968ea5c1785bf24533/6433e0bb/c9FitzdHnnYC-UIsMlNdrwxQVo2xjZfzEMY41jlQno3N1qiObZy47Tpcv2szm7t4pocyMexHwIX50MPkkeTM3g%3D%3D?uid=0&filename=4.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/4/4.jpeg"
                 }
             ]
         },
@@ -1023,13 +1037,10 @@
             "tour_id": 5,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/23894128d0f3c8d970d494c8844287c9f36672328b5b56233fdc2fcdb826a501/6433e2ba/O2qbXiqoyr9g-vLPLG6Eg0yskDFvFd8ca3TjTm6zkOg7zWVWhnHocHkknN2O3glB4ce9GtANGcfCRKiqi6Bu0Q%3D%3D?uid=0&filename=1-0373.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/5/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/9cd4159641b79b46fdd578c4224349b1c839f195565ea0afd506b5a26b7b9899/6433e2ba/XxGE382_4thr7FFVIfzVdj5siPwfSyMc6owpEZgzJjMQyzT8hOg-hSRM6eZQHsuRo7N_Yeltqiz-F9dJz9t0wg%3D%3D?uid=0&filename=2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
-                },
-                {
-                    "url": "https://downloader.disk.yandex.ru/preview/0d1b482b1e0e119776a2b90c25cb51cffa60509d18de3a839ce115723a77a208/6433e2ba/Yyb1oKiPLlEWa2Xa4xV9L3Fo4w3JovvnGwsbtwX11d-WfPGIfwdKz7k4tIxJM1-ffNQs6zQgGpCmgyfz82v8NA%3D%3D?uid=0&filename=3.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/5/2.jpeg"
                 }
             ]
         },
@@ -1037,13 +1048,13 @@
             "tour_id": 6,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/a756397f5fd35c8cf0c4509eb8d878513bdefc6f5b99ebaac78e3913b1921aa9/6433e350/kMDR7rqbFLlDueYmkUXFffX4L77JGYZg2hjeYJbBicTVpPQXNTZBxrW7B4l1G0veLvAHHjwnuISUo51M3ae8Dw%3D%3D?uid=0&filename=1.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/6/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/eca861258ae02de98a567e3fa30e0279072bb1f4753da5ac637c3631b59e0215/6433e350/TvOJsoVMewxS0-tgB3CcAOaM6Tjg2otodlwuZHNZuO3Ene6qw5-IaktQfOJwGfwC6HdVzf-lbuzWmosDiNmAYw%3D%3D?uid=0&filename=2.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/6/2.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/be48030de8a93c228ea01d36849cb6e697dbfae4e20c06e5996cf552d6f4db22/6433e350/zAiAlRmlz3SiciqEOuotqdUNSqq-NksPfjr8r13i7TjEcKdgYzvbijFQFgy5JrPmf5L0hm6lKmLoOaZAmCpobg%3D%3D?uid=0&filename=Ocean%20main.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/6/3.jpeg"
                 }
             ]
         },
@@ -1051,23 +1062,24 @@
             "tour_id": 7,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/e4ba81533080b8a9613dcedb761374ee67b6824ce0a07d58fc199323db243837/6433e438/nNmInf182xWT-KF3vZaOAsZi3cKmp2O3mWGYtHcLSWDMly6shYBKIlqqJ87ICeZo9l2WLJvIQznC__HWyIyqgg%3D%3D?uid=0&filename=1.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/7/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/26530322276809288c4390108644db5b9f72549186ae8eff9713b4abbbcaae70/6433e438/yuXLTjSmbguYQn-EOJ9bs_Lahrh-5YUbIwyZwJZPaYTX9be_QjMIE0vJHglqDPUvGlHWl7Of1TnL4sn6ruTSaw%3D%3D?uid=0&filename=2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/7/2.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/0aacc701ee30964c09e96288c2b76c501e3b66dd8d4a684865830ad20462989a/6433e438/3aaedexH9E8HeoXu1_fWvIjeY-XU-c7G_M3BLl-U4jKw9fZytschUyyy-Y9YuGxmHu2WNRkIp5OXHgaAsL-wMg%3D%3D?uid=0&filename=3.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/7/3.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/b8a44e4e3a72389a38a9510a78c90ea6ea45f2d66ce9013e8fb539c639625ffc/6433e438/-R_MP9BUDcV4DmY_ssHlEUFq7Kzy1N2qENNWIQ94yyX_70TQ7qHtymC0HlMAW6__EjVngPTr87JXayWI7V-JNQ%3D%3D?uid=0&filename=4.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/7/4.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/fa4ec1bf14416b5ca16c834a0210043be8ca80b995f5c0926ffa0c7d7aa1394d/6433e438/CWEhdbVY4pBOIkoP1K-FtnKVdKrxSoDZljzUMYUzm9xHDr_2tzQOqTcZRZyr-ZuRLccuQcGJ37CP7Dkt9qbo2A%3D%3D?uid=0&filename=5.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/7/5.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/1be2e926691cdb00121cc971a09726752760ca0f51d41dccc10253f94c1d3c3b/6433e438/WuFJd0eq6v6r3jTex6fp2EFq7Kzy1N2qENNWIQ94yyVEdBPp3us9C0k2PP70PFMw-yBEoVvXAtYtjgPlqxzykA%3D%3D?uid=0&filename=6.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/7/6.jpeg"
                 }
+                
             ]
         },
         {
@@ -1096,10 +1108,10 @@
             "tour_id": 10,
             "data": [
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/b174632df9134bf1990468521077c8409eecefdf4fc69019c04cb650cf5147c7/6433e701/bAsljq7-2Fx0sXwgjeoYnH7wazeXzjxy3GFJcq95xnfyFaTBEmFFOrlwMJaNKfXOPnptJqAOKT2LLkejzRVHnw%3D%3D?uid=0&filename=1.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/10/1.jpeg"
                 },
                 {
-                    "url": "https://downloader.disk.yandex.ru/preview/179e252191bffe25ebb6d912e26b835b223a6f59b0c7bb5e51f3eae2aa26c8bb/6433e701/87WYv4pFFoe4m9ttbhf5rH1Uotyf99Gt10Hu8xqBLvgP-Rzsz7NLI069kaTp67uwtrDc_-TG-AdTHt4LmR_JaQ%3D%3D?uid=0&filename=2.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2"
+                    "url": "/images/tours/10/2.jpeg"
                 }
             ]
         },
