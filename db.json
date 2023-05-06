@@ -985,13 +985,12 @@
             "tour_id": 1,
             "data": [
                 {
-                    "url": "/images/tours/1/1.jpeg"
+                    "original": "/images/tours/1/2.jpeg",
+                    "thumbnail": "/images/tours/1/2.jpeg"
                 },
                 {
-                    "url": "/images/tours/1/2.jpeg"
-                },
-                {
-                    "url": "/images/tours/1/3.jpeg"
+                    "original": "/images/tours/1/3.jpeg",
+                    "thumbnail": "/images/tours/1/3.jpeg"
                 }
             ]
         },
@@ -999,10 +998,12 @@
             "tour_id": 2,
             "data": [
                 {
-                    "url": "/images/tours/2/1.jpeg"
+                    "original": "/images/tours/2/2.jpeg",
+                    "thumbnail": "/images/tours/2/2.jpeg"
                 },
                 {
-                    "url": "/images/tours/2/2.jpeg"
+                    "original": "/images/tours/2/1.jpeg",
+                    "thumbnail": "/images/tours/2/1.jpeg"
                 }
             ]
         },
@@ -1010,10 +1011,12 @@
             "tour_id": 3,
             "data": [
                 {
-                    "url": "/images/tours/3/1.jpg"
+                    "original": "/images/tours/3/1.jpg",
+                    "thumbnail": "/images/tours/3/1.jpg"
                 },
                 {
-                    "url": "/images/tours/3/2.jpg"
+                    "original": "/images/tours/3/2.jpg",
+                    "thumbnail": "/images/tours/3/2.jpg"
                 }
             ]
         },
@@ -1021,16 +1024,20 @@
             "tour_id": 4,
             "data": [
                 {
-                    "url": "/images/tours/4/1.jpeg"
+                    "original": "/images/tours/4/1.jpeg",
+                    "thumbnail": "/images/tours/4/1.jpeg"
                 },
                 {
-                    "url": "/images/tours/4/2.jpeg"
+                    "original": "/images/tours/4/2.jpeg",
+                    "thumbnail": "/images/tours/4/2.jpeg"
                 },
                 {
-                    "url": "/images/tours/4/3.jpeg"
+                    "original": "/images/tours/4/3.jpeg",
+                    "thumbnail": "/images/tours/4/3.jpeg"
                 },
                 {
-                    "url": "/images/tours/4/4.jpeg"
+                    "original": "/images/tours/4/4.jpeg",
+                    "thumbnail": "/images/tours/4/4.jpeg"
                 }
             ]
         },
@@ -1038,10 +1045,12 @@
             "tour_id": 5,
             "data": [
                 {
-                    "url": "/images/tours/5/1.jpeg"
+                    "original": "/images/tours/5/1.jpeg",
+                    "thumbnail": "/images/tours/5/1.jpeg"
                 },
                 {
-                    "url": "/images/tours/5/2.jpeg"
+                    "original": "/images/tours/5/2.jpeg",
+                    "thumbnail": "/images/tours/5/2.jpeg"
                 }
             ]
         },
@@ -1049,13 +1058,16 @@
             "tour_id": 6,
             "data": [
                 {
-                    "url": "/images/tours/6/1.jpeg"
+                    "original": "/images/tours/6/1.jpeg",
+                    "thumbnail": "/images/tours/6/1.jpeg"
                 },
                 {
-                    "url": "/images/tours/6/2.jpeg"
+                    "original": "/images/tours/6/2.jpeg",
+                    "thumbnail": "/images/tours/6/2.jpeg"
                 },
                 {
-                    "url": "/images/tours/6/3.jpeg"
+                    "original": "/images/tours/6/3.jpeg",
+                    "thumbnail": "/images/tours/6/3.jpeg"
                 }
             ]
         },
@@ -1063,22 +1075,28 @@
             "tour_id": 7,
             "data": [
                 {
-                    "url": "/images/tours/7/1.jpeg"
+                    "original": "/images/tours/7/1.jpeg",
+                    "thumbnail": "/images/tours/7/1.jpeg"
                 },
                 {
-                    "url": "/images/tours/7/2.jpeg"
+                    "original": "/images/tours/7/2.jpeg",
+                    "thumbnail": "/images/tours/7/2.jpeg"
                 },
                 {
-                    "url": "/images/tours/7/3.jpeg"
+                    "original": "/images/tours/7/3.jpeg",
+                    "thumbnail": "/images/tours/7/3.jpeg"
                 },
                 {
-                    "url": "/images/tours/7/4.jpeg"
+                    "original": "/images/tours/7/4.jpeg",
+                    "thumbnail": "/images/tours/7/4.jpeg"
                 },
                 {
-                    "url": "/images/tours/7/5.jpeg"
+                    "original": "/images/tours/7/5.jpeg",
+                    "thumbnail": "/images/tours/7/5.jpeg"
                 },
                 {
-                    "url": "/images/tours/7/6.jpeg"
+                    "original": "/images/tours/7/6.jpeg",
+                    "thumbnail": "/images/tours/7/6.jpeg"
                 }
                 
             ]
@@ -1109,10 +1127,12 @@
             "tour_id": 10,
             "data": [
                 {
-                    "url": "/images/tours/10/1.jpeg"
+                    "original": "/images/tours/10/1.jpeg",
+                    "thumbnail": "/images/tours/10/1.jpeg"
                 },
                 {
-                    "url": "/images/tours/10/2.jpeg"
+                    "original": "/images/tours/10/2.jpeg",
+                    "thumbnail": "/images/tours/10/2.jpeg"
                 }
             ]
         },
